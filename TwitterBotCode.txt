@@ -1,7 +1,7 @@
 {
-	"origin": ["As your #adjective# Cilan, I am proud to present your Pokémon of the day to be #Pokemon#"],
+	"origin": ["As your #adjective# Cilan, I am #expression# to present your Pokémon of the day to be #Pokemon#"],
 	"adjective" : ["friend", "king", "homie", "brother", "pal", "dude", "connoisseur ", "champion", "scholar"],
-
+	"expression" : ["proud", "excited", "ecstatic", "happy", "humbled with the opportunity", "blessed", "gifted", "unable to contain my joy as I try" ],
 	"Pokemon" : [	"Victini Unova Pokédex 000 fun fact: #VictiniFact#", "Snivy Unova Pokédex 001 fun fact: #SnivyFact#",
 			"Servine Unova Pokédex 002 fun fact: #ServineFact#", "Serperior Unova Pokédex 003 fun fact: #SerperiorFact#",
 			"Tepig Unova Pokédex 004 fun fact: #TepigFact#", "Pignite Unova Pokédex 005 fun fact: #PigniteFact#",
